@@ -1,0 +1,2 @@
+# exchangerate
+Simple currency converter
